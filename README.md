@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.dribbble.com/userupload/11765143/file/original-7df1b4bf9c790bd72127f8f38511c05d.jpg?resize=1024x1024&vertical=center)]
 <h1 align="center">Hi 👋, I'm Manav Raval</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-[![Animated Room](https://i.imgur.com/example.gif](https://mir-s3-cdn-cf.behance.net/project_modules/fs/9bc27292880429.5e569ff84e4d0.gif)]
+<img src="https://i.imgur.com/example.gif" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamba632&label=Profile%20views&color=0e75b6&style=flat" alt="mamba632" /> </p>
 
 - 🔭 I’m currently working on **HealthConnect – Accessible Healthcare**
